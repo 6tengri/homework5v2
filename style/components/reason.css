@@ -1,0 +1,70 @@
+.reason__inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-bottom: 140px;
+  max-width: 1096px;
+
+  /* text-align: center; */
+}
+
+.reason__span {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+}
+
+.reason__title {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 30px;
+}
+
+.reason__text {
+  max-width: 340px;
+  max-height: 182px;
+}
+
+.reason__reasons {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  margin-left: 90px;
+}
+
+.reason__reasons img {
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+.reasons1 {
+  max-width: 253px;
+  height: 100px;
+  margin-right: 77px;
+}
+
+.reasons2 {
+  max-width: 360px;
+  height: 60px;
+}
+
+.reasons1 img {
+  float: left;
+}
+
+.reasons2 img {
+  float: left;
+}
+
+.reason__reasons p {
+  margin-bottom: 30px;
+}

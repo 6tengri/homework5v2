@@ -1,0 +1,48 @@
+.since2019__inner {
+  display: flex;
+  flex-direction: column;
+  max-width: 874px;
+  max-height: 482px;
+  margin: 0 auto;
+  margin-bottom: 174px;
+  margin-top: 282px;
+}
+
+.since2019__upper-title {
+  font-family: "Fjalla One", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 60px;
+}
+
+.since2019__lower-inner {
+  position: relative;
+  display: flex;
+  margin-top: 74px;
+  /* justify-content: space-between; */
+}
+
+.since2019__lower-inner img {
+  margin-left: 127px;
+}
+
+.since2019__title {
+  position: absolute;
+  right: 294px;
+  bottom: 156px;
+  font-family: "Fjalla One", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.since2019__text {
+  position: absolute;
+  max-width: 250px;
+  max-height: 60px;
+  right: 90px;
+  bottom: 83px;
+}

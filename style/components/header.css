@@ -1,0 +1,42 @@
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.header__logo img {
+  max-width: 244px;
+  max-height: 50px;
+}
+
+/*first navbar of study*/
+.header__list {
+  display: flex;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.header__item {
+  margin-left: 25px;
+  padding-right: 290px;
+}
+
+.header__item:first-child {
+  margin-left: 0px;
+  padding-right: 0px;
+}
+
+.header__item:first-child img {
+  margin: 2px 5px;
+}
+
+/*second navbar of contacts*/
+.header__list1 {
+  display: flex;
+}
+
+.header__item1 {
+  margin-left: 40px;
+}

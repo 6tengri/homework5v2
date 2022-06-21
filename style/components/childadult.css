@@ -1,0 +1,23 @@
+.childadult__inner {
+  display: flex;
+}
+
+.childadult__imgadult,
+.childadult__imgchild {
+  position: relative;
+  max-width: 193px;
+  max-height: 150px;
+  margin-right: 110px;
+}
+
+.childadult__imgadult span,
+.childadult__imgchild span {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+  position: absolute;
+  background-color: white;
+  top: 90px;
+  left: 65px;
+}

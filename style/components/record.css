@@ -1,0 +1,124 @@
+.record__inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1046px;
+  height: 590px;
+  background-color: #fffbed;
+  border-radius: 70px;
+}
+
+.record__left {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  margin-left: 106px;
+  margin-top: 80px;
+  margin-bottom: 81px;
+}
+
+.record__left-title {
+}
+
+.record__left-title h4 {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.record__left-cus {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  max-width: 420px;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.record__left-cus h5 {
+  border-bottom: 2px solid #94c6c4;
+  text-align: center;
+  width: 200px;
+}
+
+.record__left-cus h5:first-child {
+  margin-right: 98px;
+}
+
+.record__left-lang {
+  position: relative;
+  border: 1px solid#FFECA0;
+  border-radius: 10px;
+  background-color: #ffffff;
+  max-width: 420px;
+  height: 50px;
+}
+
+.record__left-lang p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 12px;
+  margin-left: 20px;
+}
+
+.record__left-lang img {
+  position: absolute;
+  right: 23px;
+  top: 24px;
+}
+
+.record__left-cls {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.record__left-cls input {
+  margin-right: 17px;
+  border: 2px solid#236967;
+}
+
+.record__left-cls input:last-child {
+  margin-left: 67px;
+}
+
+.record__left-rcd input {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  border: 1px solid #ffeca0;
+  border-radius: 10px;
+  width: 176px;
+  height: 50px;
+  margin-right: 20px;
+  margin-bottom: 14px;
+}
+
+.record__left-rcd input:last-child {
+  width: 400px;
+}
+
+.record__left-rcd input[type="text"] {
+  padding-left: 20px;
+}
+
+.record__left-btn button {
+  max-width: 171px;
+  height: 54px;
+}
+
+.record__right-img img {
+  border-radius: 0px 70px 70px 0px;
+}

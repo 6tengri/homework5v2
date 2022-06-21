@@ -1,0 +1,42 @@
+.languages__inner {
+  display: flex;
+  flex-direction: column;
+  background-color: #fffbed;
+  border-radius: 70px;
+  max-width: 1260px;
+  margin-top: 170px;
+  margin-bottom: 140px;
+}
+
+.languages__title {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+  margin-top: 75px;
+  margin-left: 213px;
+}
+
+.languages__langs ul {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #363636;
+  margin-left: 213px;
+  margin-right: 220px;
+  margin-bottom: 85px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.languages__langs li {
+  display: flex;
+}
+
+.languages__langs p {
+  margin-left: 30px;
+  margin-top: 5px;
+}
